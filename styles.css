@@ -3,13 +3,13 @@ body {
   background-color: #011F3F;
 }
 
+footer{
+  color:#DBEDF3;
+}
+
 a{
   text-decorarion: none;
   color: #DBEDF3;
-}
-
-footer{
-  color:#DBEDF3;
 }
 
 #level-title {
